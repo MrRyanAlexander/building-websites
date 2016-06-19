@@ -2,8 +2,8 @@
 
 Dependencies:
 
-'''
+```
 $ express server
 $ mongoDB
 $ jade templates
-'''
+```
