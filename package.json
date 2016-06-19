@@ -1,0 +1,26 @@
+{
+  "name": "building-websites",
+  "version": "0.1.0",
+  "description": "A blog about building websites",
+  "engines": {
+    "node": "6.2.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "jade": "1.11.0",
+    "express": "4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterryanalexander/building-websites"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

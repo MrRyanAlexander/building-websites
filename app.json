@@ -1,0 +1,8 @@
+{
+  "name": "Buliding Websites Blog",
+  "description": "A blog about building websites",
+  "repository": "https://github.com/misterryanalexander/building-websites",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": ""
+}
